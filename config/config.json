@@ -1,0 +1,18 @@
+{
+  "address": "njb-template.com",
+  "port": "80",
+  "database": {
+    "host"     : "host",
+    "user"     : "user",
+    "password" : "password",
+    "database" : "name"
+  },
+  "cookie": {
+    "key": "njb-template",
+    "secret": "njb-supersecrettoken"
+  },
+  "language": {
+    "mode": "prefix",
+    "list": [ "fr", "en" ]
+  }
+}
